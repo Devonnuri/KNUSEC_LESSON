@@ -1,0 +1,1 @@
+print(f'이름: {input()}, 나이: {input()}세')

@@ -1,0 +1,1 @@
+'\n\n'.join(map(lambda x: '\n'.join(map(lambda y: f'{x} * {y} = {x*y}', range(1, 10))), range(2, 10)))
